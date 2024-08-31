@@ -530,10 +530,10 @@ section {
   text-transform: none;
 }
 
-.order form .box-container .box .inputBox input::placeholder,
+/* .order form .box-container .box .inputBox input::placeholder,
 .order form .box-container .box .inputBox textarea::placeholder {
   text-transform: capitalize;
-}
+} */
 
 .order form .box-container .box .inputBox input:focus,
 .order form .box-container .box .inputBox textarea:focus {
@@ -686,14 +686,19 @@ section {
   margin: 2rem 0;
 }
 
+.share {
+  color: var(--peru);
+}
+
 .footer .share a {
   height: 6rem;
   width: 6rem;
   line-height: 5.8rem;
   color: var(--white);
-  background: var(--black);
+  background: red;
   margin: 0 0.3rem;
   font-size: 2.5rem;
+  border-radius: 50%;
 }
 
 .footer .share a:hover {
