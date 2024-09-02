@@ -8,3 +8,9 @@ Welcome to the [Responsive Restaurant Website](https://blinblin.netlify.app/) De
 - Order Form Section: Developed a fully responsive order form using CSS Flexbox for a clean and organized layout.
 - Footer Section: Designed a responsive footer using CSS Grid, ensuring consistent structure across different screen sizes.
 - Cross-Device Compatibility: The website is fully responsive and compatible with all mobile devices, providing a beautiful and pleasant user interface.
+
+![Home section](https://github.com/albinamels/crepe-shop/blob/main/images/screenshot1.png)
+![About section](https://github.com/albinamels/crepe-shop/blob/main/images/screenshot2.png)
+![Menu section](https://github.com/albinamels/crepe-shop/blob/main/images/screenshot3.png)
+![Reviews section](https://github.com/albinamels/crepe-shop/blob/main/images/screenshot4.png)
+![Delivery section](https://github.com/albinamels/crepe-shop/blob/main/images/screenshot5.png)
