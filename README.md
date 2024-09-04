@@ -1,5 +1,5 @@
-## Responsive Restaurant Website Design Using HTML CSS and JavaScript
-Welcome to the [Responsive Restaurant Website](https://blinblin.netlify.app/) Design project! This website is designed using HTML, CSS, and JavaScript to create a modern and interactive user experience. The site is fully responsive, ensuring compatibility across all devices, including mobile phones and tablets.
+## Welcome to the [Responsive Restaurant Website](https://blinblin.netlify.app/) Design project! 
+This project is a fully responsive website for my friend's small family business — a crepe shop — using HTML, CSS, and JavaScript. The site features real data and photos, providing a modern and interactive user experience. Designed to be compatible across all devices, the website ensures seamless navigation on both mobile and desktop platforms. The project is deployed via Netlify.
 
 **Features:**
 - Smooth Scrolling: Implemented smooth scrolling for seamless navigation through each section.
